@@ -28,6 +28,23 @@ This project explores the Netflix titles dataset using Python and data analysis 
 - The average movie duration was approximately 99.6 minutes.
 - Most TV Shows had one season.
 
+## Visualizations
+
+### Movies vs TV Shows
+![Movies vs TV Shows](visualizations/movies_vs_tv_shows.png)
+
+### Top 10 Countries
+![Top 10 Countries](visualizations/top_10_countries.png)
+
+### Content Ratings
+![Content Ratings](visualizations/content_ratings.png)
+
+### Movie Duration Distribution
+![Movie Duration Distribution](visualizations/movie_duration_distribution.png)
+
+### Titles Added by Year
+![Titles Added by Year](visualizations/titles_added_by_year.png)
+
 ## Project Structure
 - `dataset/` — Dataset files
 - `notebooks/` — Jupyter Notebook
